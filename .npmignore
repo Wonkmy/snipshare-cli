@@ -1,0 +1,49 @@
+# 依赖
+node_modules/
+
+# 数据
+data/
+.snippet/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 测试
+test.js
+test-project/
+
+# 构建
+dist/
+build/
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 日志
+logs/
+*.log
+
+# 文档（可选，如果不想上传）
+docs/
+
+# GitHub
+.git/
+.gitignore
+.npmignore
+
+# 开发相关
+*.test.js
+jest.config.js
+
+# 服务器项目（可选，如果不想上传）
+snippet-server/
