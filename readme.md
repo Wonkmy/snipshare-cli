@@ -17,6 +17,7 @@ A CLI tool for saving, managing, and sharing code snippets.
 - ✅ Install snippets to current project
 
 - Contact me: wonkmy@gmail.com
+- Github: https://github.com/Wonkmy/snipshare-cli.git
 
 ## 📦 Installation
 
