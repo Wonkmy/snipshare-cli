@@ -18,6 +18,7 @@ A CLI tool for saving, managing, and sharing code snippets.
 
 - Contact me: wonkmy@gmail.com
 - Github: https://github.com/Wonkmy/snipshare-cli.git
+- npm: https://www.npmjs.com/search?q=snipshare-cli
 
 ## 📦 Installation
 
